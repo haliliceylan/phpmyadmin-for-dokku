@@ -1,0 +1,1 @@
+# phpmyadmin-for-dokku
